@@ -1,0 +1,27 @@
+.thumbnail img {
+    width: 100%;
+    height: 15em; 
+}
+.thumbnail {
+    padding: 0;
+    height: 100%;
+}
+
+.delete-form {
+    display: inline;
+}
+
+ 
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.center-form {
+    text-align: center;
+}
+
+.custom-divs{
+    width: 30%; 
+    margin: 25px auto;
+}
